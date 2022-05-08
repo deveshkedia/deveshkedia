@@ -1,9 +1,8 @@
-
 [![Header](https://raw.githubusercontent.com/deveshkedia/deveshkedia/master/Devesh%20Kedia.png "Header")](https://deveshonline.com/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Devesh Kedia and I'm a self-taught programmer. I'm from India, living in Kolkata.I am 14 year old. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Devesh Kedia and I'm a self-taught programmer. I'm from India, living in Kolkata.I am 14 year old. You can find me on [![Twitter][1.2]][1]
 
 ## 🔧 Technologies & Tools
 
@@ -31,19 +30,15 @@ My name is Devesh Kedia and I'm a self-taught programmer. I'm from India, living
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/deveshkedia/deveshkedia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshkedia&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/deveshkedia/deveshkedia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshkedia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devesh's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/deveshkedia/crwn-clothing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=crwn-clothing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
