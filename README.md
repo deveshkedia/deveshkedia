@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Devesh Kedia and I'm a self-taught programmer. I'm from Kolkata,India.I am 14 year old. You can find me on [![Twitter][1.2]][1] ,[![📱][4]][4]
+My name is Devesh Kedia and I'm a self-taught programmer. I'm from Kolkata,India.I am 14 year old. You can find me on [![Instagram][1.2]][1]
 
 ## 🔧 Technologies & Tools
 
@@ -10,8 +10,9 @@ My name is Devesh Kedia and I'm a self-taught programmer. I'm from Kolkata,India
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
@@ -50,9 +51,6 @@ My name is Devesh Kedia and I'm a self-taught programmer. I'm from Kolkata,India
 
 [1]: https://twitter.com/DeveshKedia1
 [2]: https://github.com/deveshkedia
-[4]:+919830363651
-[3]: https://www.instagram.com/kedia.devesh/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
