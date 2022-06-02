@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/deveshkedia/deveshkedia/master/Header.png)](https://sites.google.com/view/sciencehub123/home)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
 My name is Devesh Kedia I am 14 years old and I'm a self-taught programmer.I'm currently living in Kolkata,India.
 
