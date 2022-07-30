@@ -65,13 +65,9 @@ My name is Devesh Kedia I am 14 years old and I'm a self-taught programmer.I'm c
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/deveshkedia/deveshkedia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshkedia&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/deveshkedia/deveshkedia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshkedia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devesh's GitHub Stats" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnavv&layout=compact&theme=github_dark&custom_title=My%20Top%20Languages&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarnavv&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
 <a href="https://github.com/deveshkedia/crwn-clothing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=crwn-clothing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
