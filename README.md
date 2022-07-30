@@ -1,5 +1,4 @@
 [![Header](https://raw.githubusercontent.com/deveshkedia/deveshkedia/master/Header.png)](https://sites.google.com/view/sciencehub123/home)
-<img src="https://raw.githubusercontent.com/deveshkedia/deveshkedia/master/Header.png">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
@@ -82,7 +81,9 @@ My name is Devesh Kedia I am 14 years old and I'm a self-taught programmer.I'm c
 <a href="https://github.com/deveshkedia/CreackTheServer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshkedia&repo=CreackTheServer&title_color=eeeeee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnavv&layout=compact&theme=github_dark&custom_title=My%20Top%20Languages&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarnavv&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
 
 <!-- links to social media icons -->
 
